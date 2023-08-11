@@ -4,6 +4,6 @@
 [**2. Data Visualization with R**](https://github.com/luuloi/GWAS_Introduction_2023/blob/712aa0512856f09e0b7a30e2289fea25ec98e4d8/02_Data_Visualization.ipynb) \
 [**3. Basic Statistics with R**](https://github.com/luuloi/GWAS_Introduction_2023/blob/712aa0512856f09e0b7a30e2289fea25ec98e4d8/03_Statistics.ipynb) \
 [**4. GWAS: Case-Control Association Testing**](https://github.com/luuloi/GWAS_Introduction_2023/blob/712aa0512856f09e0b7a30e2289fea25ec98e4d8/04_GWAS_Case_Control_Associatetion_Testing.ipynb) \
-[**5. Discussion of GWAS Case-Control in clinic research and development**] \
+[**5. Discussion of GWAS Case-Control in clinic research and development**] \(https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
 
 
