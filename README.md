@@ -8,3 +8,5 @@
 
 # [**Materials**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials)
 [**R Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials/book/R)
+[**GWAS Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/book/GWAS)
+[**GWAS Research and Review Papers**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/Papers)
