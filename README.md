@@ -7,6 +7,6 @@
 [**5. Discussion of GWAS Case-Control in clinic research and development**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
 
 # [**Materials**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials)
-[**R Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials/book/R)
-[**GWAS Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/book/GWAS)
-[**GWAS Research and Review Papers**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/Papers)
+[**1. R Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials/book/R) \
+[**2. GWAS Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/book/GWAS) \
+[**3. GWAS Research and Review Papers**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/Papers) \
