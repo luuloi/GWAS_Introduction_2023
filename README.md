@@ -9,7 +9,8 @@
 # [**Content for August 18, 2023 (8:30-11:30) Lectures**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx) 
 [**1. GWAS: Quantitative Traits**](https://github.com/luuloi/GWAS_Introduction_2023/blob/603169a8886f949a166f9cc02c33d3614630e721/05_GWAS_Quantitative_Traits.ipynb) \
 [**2. Polygenic Risk Score**](https://github.com/luuloi/GWAS_Introduction_2023/blob/603169a8886f949a166f9cc02c33d3614630e721/06_PolygenicRiskScore.ipynb) \
-[**3. Discussion of GWAS Quantitative Traits in clinic research and development**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
+**3. An Introduction of DNA MicroArray and Sequencing Platforms** \
+[**4. Discussion of GWAS Quantitative Traits in clinic research and development**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
 
 # [**Materials**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials)
 [**1. R Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials/book/R) \
