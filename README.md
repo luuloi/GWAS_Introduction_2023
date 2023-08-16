@@ -6,6 +6,11 @@
 [**4. GWAS: Case-Control Association Testing**](https://github.com/luuloi/GWAS_Introduction_2023/blob/712aa0512856f09e0b7a30e2289fea25ec98e4d8/04_GWAS_Case_Control_Associatetion_Testing.ipynb) \
 [**5. Discussion of GWAS Case-Control in clinic research and development**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
 
+# [**Content for August 18, 2023 (8:30-11:30) Lectures**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx) 
+[**1. GWAS: Quantitative Traits**](https://github.com/luuloi/GWAS_Introduction_2023/blob/603169a8886f949a166f9cc02c33d3614630e721/05_GWAS_Quantitative_Traits.ipynb) \
+[**2. Polygenic Risk Score**](https://github.com/luuloi/GWAS_Introduction_2023/blob/603169a8886f949a166f9cc02c33d3614630e721/06_PolygenicRiskScore.ipynb) \
+[**3. Discussion of GWAS Quantitative Traits in clinic research and development**](https://github.com/luuloi/GWAS_Introduction_2023/blob/96a5c89b21d302ca71b8299f54732e639518d1fc/introduction_to_GWAS.pptx)
+
 # [**Materials**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials)
 [**1. R Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/d3440cd40a3b9ddbb3abe0e342e4b263ad2df223/Materials/book/R) \
 [**2. GWAS Book**](https://github.com/luuloi/GWAS_Introduction_2023/tree/619b67ba402c76304ae4a12af78e26ba8632d1a8/Materials/book/GWAS) \
